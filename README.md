@@ -1,16 +1,17 @@
-## Hi there 👋
+##  📌  Olá, meu nome é Felipe Bortoto!
 
-<!--
-**felipebortoto/felipebortoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente curso Engenharia de Software e estou me desenvolvendo para a área de Análise de Dados.
 
-Here are some ideas to get you started:
+Tenho Python, Power BI e SQL como ferramentas de uso, com foco em transformar dados em insights valiosos para apoiar decisões estratégicas. Meu conhecimento em lógica de programação ajuda a facilitar o entendimento de lógica e automações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Desenvolvi um projeto de Sistem de cadastros.
+
+💬 Email de contato: fe15bortoto@gmail.com.
+##
+ <a href="https://www.linkedin.com/in/felipebortoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
