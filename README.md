@@ -15,4 +15,4 @@ Tenho Python, Power BI e SQL como ferramentas de uso, com foco em transformar da
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/>
