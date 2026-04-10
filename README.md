@@ -5,7 +5,6 @@
 💡 &nbsp;Atualmente trabalho como Estagiário na **AgroDB | Grupo KZN**.
 🎓 &nbsp;Sou estudante de **Engenharia de Software**.
 🌱 &nbsp;Tenho bastante interesse em me aprofundar na área de dados e também gosto de desenvolver landing pages e sites institucionais.
-🎮 &nbsp;Nas horas vagas, gosto de organizar meus projetos no Notion e jogar Valorant e Elden Ring.
 ✉️ &nbsp;Você pode entrar em contato comigo pelo email fe15bortoto@gmail.com! 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
