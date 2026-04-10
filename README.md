@@ -1,19 +1,39 @@
-##  📌  Olá, meu nome é Felipe Bortoto!
+![Banner Placeholder](https://via.placeholder.com/1200x400/05122A/FFFFFF?text=Felipe+Bortoto+dos+Santos)
 
-Atualmente curso Engenharia de Software e estou me desenvolvendo para a área de Análise de Dados.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá! Eu sou o Felipe</h2>
 
-Tenho Python, Power BI e SQL como ferramentas de uso, com foco em transformar dados em insights valiosos para apoiar decisões estratégicas. Meu conhecimento em lógica de programação ajuda a facilitar o entendimento de lógica e automações.
+### 👨🏻‍💻 &nbsp;Sobre Mim
 
-🔭 Desenvolvi um projeto de Sistem de cadastros.
+💡 &nbsp;Atualmente trabalho como Estagiário na **AgroDB | Grupo KZN**.
+🎓 &nbsp;Sou estudante de **Engenharia de Software**.
+🌱 &nbsp;Tenho bastante interesse em me aprofundar na área de dados e também gosto de desenvolver landing pages e sites institucionais.
+🎮 &nbsp;Nas horas vagas, gosto de organizar meus projetos no Notion e jogar Valorant e Elden Ring.
+✉️ &nbsp;Você pode entrar em contato comigo pelo email fe15bortoto@gmail.com! 
 
-🐻 Desenvolvi um Tamagotchi.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-💬 Email de contato: fe15bortoto@gmail.com.
-##
- <a href="https://www.linkedin.com/in/felipebortoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
----
+### 🛠 &nbsp;Tech Stack
 
-## 🚀 Minhas Skills
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SEU_USUARIO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Conecte-se Comigo
+
+<p align="center">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-Felipe%20Bortoto%20dos%20Santos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:fe15bortoto@gmail.com"><img src="https://img.shields.io/badge/-fe15bortoto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
