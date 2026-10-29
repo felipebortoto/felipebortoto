@@ -1,27 +1,39 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá! Eu sou o Felipe</h2>
+<img src="https://i.pinimg.com/1200x/5f/00/2b/5f002baf80a8d315e7f37fc2e315071a.jpg" alt="ilustração do perfil" width="400" align="right">
 
-### 👨🏻‍💻 &nbsp;Sobre Mim
-
-💡 &nbsp;Atualmente trabalho como Estagiário na **AgroDB | Grupo KZN**.
-🎓 &nbsp;Sou estudante de **Engenharia de Software**.
-🌱 &nbsp;Tenho bastante interesse em me aprofundar na área de dados e também gosto de desenvolver landing pages e sites institucionais.
-✉️ &nbsp;Você pode entrar em contato comigo pelo email fe15bortoto@gmail.com! 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-### 🤝🏻 &nbsp;Conecte-se Comigo
-
-<p align="center">
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-Felipe%20Bortoto%20dos%20Santos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fe15bortoto@gmail.com"><img src="https://img.shields.io/badge/-fe15bortoto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p align="left">
+  Olá! Meu nome é Felipe Bortoto dos Santos. Atualmente, estudo Engenharia de Software na UniFil.<br>
+  Trabalho como estagiário na AgroDB | Grupo KZN. Minha stack inclui <strong> Python, JavaScript, Java, HTML, CSS, Git, Flutter, e Supabase.</strong>
 </p>
+
+<p align="left">
+  ➳ Linguagens: <strong> Python, Flutter, Java, JavaScript, HTML5 e CSS.</strong>
+</p>
+
+<p align="left">
+  ➳ Ferramentas: <strong>VsCode, IntelliJ, Git, Supabase e DBeaver</strong>
+</p>
+
+<p align="left">
+  ➳ Formas de contato:  
+</p>
+
+<p align="left">
+  <a href="mailto:fe15bortoto@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/felipebortoto" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5543999757266" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94" width="94" alt="Imagem pra AgroDB" src="https://i.pinimg.com/736x/9d/c2/3e/9dc23e653e9bda5573d4047c1e9ad15f.jpg"/>](https://grupokzn.com.br/agrodb/)
+
+**Estágio Engenharia de Software** \
+[**AgroDB**](https://grupokzn.com.br/agrodb/) • Meio período \
+Linguagens & Tecnologias: `Flutter`, `Dart`, `Postgresql`, `Supabase`, `Power BI` \
+<br/>
+<br/>
